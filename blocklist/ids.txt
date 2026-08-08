@@ -1,0 +1,15 @@
+# Hard deny by Gutenberg id. One id per line; text after '#' is a reason (kept for audit).
+# Use this for precise, known exclusions (a specific edition you've verified).
+# For whole categories (e.g. all Factbook editions), prefer title_terms.txt.
+
+# Grant's Personal Memoirs — excluded per curator request (also the 'Complete'
+# edition 4367 carries a stray "Children's History" shelf that misfiles it).
+1067   # Personal Memoirs of U. S. Grant, Volume 1
+1068   # Personal Memoirs of U. S. Grant, Volume 2
+4367   # Personal Memoirs of U. S. Grant, Complete
+5860   # Personal Memoirs of U. S. Grant, Part 1
+5861   # Personal Memoirs of U. S. Grant, Part 2
+5862   # Personal Memoirs of U. S. Grant, Part 3
+5863   # Personal Memoirs of U. S. Grant, Part 4
+5864   # Personal Memoirs of U. S. Grant, Part 5
+5865   # Personal Memoirs of U. S. Grant, Part 6

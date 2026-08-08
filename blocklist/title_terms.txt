@@ -1,0 +1,10 @@
+# Deny if the book TITLE contains any of these (case-insensitive substring).
+# Broad net for whole categories of non-book / unwanted content that would
+# otherwise auto-promote on popularity. Every match is logged at build time so
+# you can spot false positives.
+
+CIA World Factbook
+World Factbook
+
+# Reference/data dumps that read poorly in a VR reader (uncomment/extend as needed):
+# Webster's Unabridged Dictionary

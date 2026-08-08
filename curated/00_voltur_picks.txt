@@ -1,0 +1,20 @@
+# label: Voltur's Picks
+# One curated shelf. Filename sort order determines slot (00 = lowest reserved slot).
+# First line '# label:' sets the shelf's display name in the manifest.
+# Remaining lines: one Gutenberg id each; text after '#' is a comment.
+# Picked books are EXCLUSIVE — pulled from the auto-themed pool so they appear once.
+
+1251   # Le Morte d'Arthur, Volume 1 — Malory
+2701   # Moby Dick — Melville
+84     # Frankenstein — Shelley
+1661   # The Adventures of Sherlock Holmes — Doyle
+64317  # The Great Gatsby — Fitzgerald
+2542   # A Doll's House — Ibsen
+1952   # The Yellow Wallpaper — Gilman
+345    # Dracula — Stoker
+8492   # The King in Yellow — Chambers (proto-cosmic-horror, 1895)
+389    # The Great God Pan — Arthur Machen
+8486   # Ghost Stories of an Antiquary — M. R. James
+601    # The Monk: A Romance — M. G. Lewis
+47285  # Sindbad the Sailor & Other Stories from the Arabian Nights
+4217   # A Portrait of the Artist as a Young Man — Joyce

@@ -1,0 +1,6 @@
+# Deny if any of the book's subjects OR bookshelves contains these (case-insensitive
+# substring). This is the safety net for the "unlikely offensive book suddenly gets
+# popular" case — a subject/shelf keyword catches it even if you've never seen the title.
+# Tune conservatively; every match is logged so you can catch over-broad terms.
+
+# (empty for now — add subject/shelf keywords here as policy requires)
